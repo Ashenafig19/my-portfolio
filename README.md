@@ -12,7 +12,7 @@ Slow is fastest way to reach where you plan.
 
 ## Learning Plan (This Month)
 
-Week 1: Setup my work space and HTML
-Week 2: CSS Foundations
-Week 3: Layout and responsive design
-Week 4: Landing page, polish and launch
+- Week 1: Setup my work space and HTML
+- Week 2: CSS Foundations
+- Week 3: Layout and responsive design
+- Week 4: Landing page, polish and launch
